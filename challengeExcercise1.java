@@ -1,6 +1,6 @@
 /*Excercise #1
 *The program should allow you to input numbers in the console and calculate the sum of the digits.
-*EXAMPLE: User inputs the digits "12345", the output is "Sum = 5".
+*EXAMPLE: User inputs the digits "12345", the output is "Sum = 15".
 */
 
 import java.util.*;
